@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'reset';
+@import 'config';
+
+/**
+ * Breakpoints
+ */
+@import 'utilities/breakpoint';
