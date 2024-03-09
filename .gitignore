@@ -38,3 +38,4 @@ next-env.d.ts
 .vscode
 src/dist
 .DS_Store
+.env
